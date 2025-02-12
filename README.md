@@ -1,4 +1,4 @@
-# Artify AI
+# Artify AI - Visual and Voice Companion
 
 Artify AI is an interactive application that combines the power of AI to deliver a versatile user experience. Designed to be a creative and informative assistant, Artify AI lets users engage with AI in multiple ways—through text, image, and audio inputs—making it a flexible tool for various needs. Leveraging models similar to ChatGPT, Artify AI enables users to ask questions and receive intelligent responses while also exploring image recognition and speech-to-text capabilities.
 
